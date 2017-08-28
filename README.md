@@ -23,6 +23,11 @@ dispatch the following respective actions (`onChange` for `input`s, `onClick` fo
 2. Update Name
 1. Reset (clear) the Salutation and Name (from state)
 
+## Testing
+
+* Action Creators
+* Reducer(s)
+
 ## Rubric *10pts*
 - provider/store setup in index *2pt*
 - reducer *2pt*
